@@ -28,4 +28,4 @@ execute store result score #daytime z_sleep run time query daytime
 execute if score #daytime z_sleep matches ..23998 run time add 2
 execute store result score #daytime z_sleep run time query daytime
 execute if score #daytime z_sleep matches ..23999 run time add 1
-weather clear
+weather clear 0
