@@ -1,4 +1,4 @@
-scoreboard objectives add z_tnt dummy z_tnt settings
+scoreboard objectives add z_tnt dummy {"text": "z_tnt settings"}
 # Set defaults if not set yet
 execute unless score #explosion_shape z_tnt matches 0..1 run scoreboard players set #explosion_shape z_tnt 0
 execute unless score #require_confined z_tnt matches 0..1 run scoreboard players set #require_confined z_tnt 0

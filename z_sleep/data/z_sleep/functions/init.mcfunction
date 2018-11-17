@@ -1,5 +1,5 @@
-scoreboard objectives add z_sleep dummy z_sleep settings
-scoreboard objectives add z_sleep_wake trigger z_sleep_wake
+scoreboard objectives add z_sleep dummy {"text": "z_sleep settings"}
+scoreboard objectives add z_sleep_wake trigger
 # Set defaults if not set yet
 execute unless score #threshold_type z_sleep matches 0..1 run scoreboard players set #threshold_type z_sleep 0
 execute unless score #threshold_count z_sleep matches 1..100 run scoreboard players set #threshold_count z_sleep 1
