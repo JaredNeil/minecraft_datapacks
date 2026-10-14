@@ -1,18 +1,6 @@
 # Minecraft Datapacks
 #### A collection of datapacks to enhance vanilla SMP gameplay
 
-## z_sleep
-#### A configurable `n`-player sleep datapack for servers
-
-### Features
-- Configure how many players must sleep to pass the night by:
-  - fixed number of players (e.g. 1) or
-  - percent of players (e.g. 50% of overworld players)
-- Chat notification (with names) when players sleep
-  - 1-click chat link to wake sleeping players before night passes
-- Night passes instantly after sleeping for 100 game-ticks, just like single-player
-- Correctly resets weather timers (no constant rain storms)
-
 ## z_tnt
 #### A vanilla-friendly way to break bedrock using "super-charged" TNT
 
