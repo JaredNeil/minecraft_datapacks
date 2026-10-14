@@ -1,6 +1,8 @@
 {
   "pack": {
-    "pack_format": 1,
-    "description": "Break more blocks with super-charged TNT"
+    "description": "Break more blocks with super-charged TNT",
+    "pack_format": 121,
+    "min_format": 121,
+    "max_format": 121
   }
 }

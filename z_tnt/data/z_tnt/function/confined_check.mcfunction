@@ -1,0 +1,8 @@
+execute \
+  if block ~-1 ~ ~ #z_tnt:breakable \
+  if block ~ ~-1 ~ #z_tnt:breakable \
+  if block ~ ~ ~-1 #z_tnt:breakable \
+  if block ~1 ~ ~ #z_tnt:breakable \
+  if block ~ ~1 ~ #z_tnt:breakable \
+  if block ~ ~ ~1 #z_tnt:breakable \
+  run function z_tnt:explode
