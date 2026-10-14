@@ -1,7 +1,4 @@
-# Minecraft Datapacks
-#### A collection of datapacks to enhance vanilla SMP gameplay
-
-## z_tnt
+# z_tnt
 #### A vanilla-friendly way to break bedrock using "super-charged" TNT
 
 ### Features
@@ -11,4 +8,4 @@
 - Optionally require exploding TNT to be encased in unbreakable blocks (to increase difficulty and cost obsidian)
 
 # Installation
-Individual datapack zip downloads can be found on the [Releases](https://github.com/JaredNeil/minecraft_datapacks/releases) page. Download the zip file and drop directly into the `datapacks` folder for the world. Check the [Installing a data pack](https://minecraft.gamepedia.com/Tutorials/Installing_a_data_pack) tutuorial for more detailed instructions.
+Individual datapack zip downloads can be found on the [Releases](https://github.com/JaredNeil/z_tnt/releases) page. Download the zip file and drop directly into the `datapacks` folder for the world. Check the [Installing a data pack](https://minecraft.gamepedia.com/Tutorials/Installing_a_data_pack) tutuorial for more detailed instructions.
